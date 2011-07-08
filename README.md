@@ -31,3 +31,4 @@ EVEmu modified to support the latest Incursion client
 	http://www.gnu.org/copyleft/lesser.txt.
 	------------------------------------------------------------------------------------
 	
+	testing
